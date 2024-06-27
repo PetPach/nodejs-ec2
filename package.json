@@ -1,0 +1,20 @@
+{
+  "name": "demo-nodejs-ec2-instance",
+  "version": "1.0.0",
+  "description": "Aplicación de prueba para implementación en Instancia de Amazon EC2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "AmazonEC2"
+  ],
+  "author": "Pedro Pacheco",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
